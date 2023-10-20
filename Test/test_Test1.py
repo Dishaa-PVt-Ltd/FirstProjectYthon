@@ -13,3 +13,7 @@ def test_b1():
 def test_b1():
     assert True
     print("I am Tesgit")
+
+def test_b1():
+    assert True
+    print("I am Tesgit")
