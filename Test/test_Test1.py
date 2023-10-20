@@ -21,3 +21,7 @@ def test_b1():
 def test_b1():
     assert True
     print("I am Tesgit")
+
+def new1():
+    assert True
+    print("I am Tesgit")
